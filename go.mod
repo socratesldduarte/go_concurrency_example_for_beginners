@@ -1,4 +1,4 @@
-module github.com/socratesldduarte/go_concurrency_example
+module github.com/socratesldduarte/go_concurrency_example_for_beginners
 
 go 1.23.0
 
